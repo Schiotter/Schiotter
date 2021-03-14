@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Schiotter
 - 👀 I’m interested in everything related to Computers
-- 🌱 I’m currently learning basicaly everything... (a bit Bash, Shell, C, C++, Ruby & Ruby on Rails, PHP + HTML & CSS, JS, React, Java nad Python)
+- 🌱 I’m currently learning basicaly everything... (a bit Bash, Shell, C, C++, Ruby & Ruby on Rails, PHP + HTML & CSS, JS, React, Java and Python)
 - 📫 How to reach me via mail to Michael@Schlosser.wtf
 
 <!---
