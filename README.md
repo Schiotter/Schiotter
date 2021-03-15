@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything related to Computers. Programming is more of a hobby for me.
 - 🌱 I’m currently trying to learn a bit of everything:
   > Bash and Shell, C & C++, Ruby & Ruby on Rails, PHP + HTML & CSS, React, JS, Java and last but not least Python
-  > I will not really focus on a certain language in the future, but will try to understand a little bit of all languages
+  - I will not really focus on a certain language in the future, but will try to understand a little bit of all languages
 - 📫 You can reach me via a mail to Michael@Schlosser.wtf
 
 <!---
