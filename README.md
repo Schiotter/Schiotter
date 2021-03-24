@@ -1,9 +1,26 @@
-- 👋 Hi, I’m @Schiotter, an IT specialist for systems integration.
-- 👀 I’m interested in everything related to Computers. Programming is more of a hobby for me.
-- 🌱 I’m currently trying to learn a bit of everything:
-  > Bash and Shell, C & C++, Ruby & Ruby on Rails, PHP + HTML & CSS, React, JS, Java and last but not least Python
+# Here's Jonny! 👋
+nah, not realy.. My Name is Michael Schlosser and i'm an IT specialist for systems integration from Germany.
+I call myself @Schlotter on basicaly every Platform or Game.
+Why you ended up here? I can't tell you that!
+BUT i can tell you a bit about me; Like i said im from Germany, Bavaria and i work in IT additionally im a paramedic 🚑.
+I’m interested in everything related to Computers and Programming is more of a hobby for me.
+ 📫 If you wish to contact me, you can do that via a Mail to Michael@Schlosser.wtf
+
+#### 🌱 I’m permanently trying to learn a bit of everything:
+
+Current Programing languages:
+  - Bash and Shell       > Windows / Linux
+  - C/C++                > mostly Linux
+  - Ruby & Rails         > Windows
+  - React                > Linux
+  - PHP + HTML, CSS, JS  > Linux
+  - Java                 > Windows
+  - Python               > Linux and Windows
   - I will not really focus on a certain language in the future, but will try to understand a little bit of all languages
-- 📫 You can reach me via a mail to Michael@Schlosser.wtf
+  - My current Nr.1 IDE is VS Code with the [Vim extension](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)  [[GITHUB](https://github.com/VSCodeVim/Vim/)]♥ for everything except Java, i use Eclipse
+
+#### btw, have fun using my stuff ^^ maybe it's usefull for you
+
 
 <!---
 Schiotter/Schiotter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
