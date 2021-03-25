@@ -1,4 +1,4 @@
-# Here's Jonny! 👋
+# Here's Johnny! 👋
 nah, not realy.. My Name is Michael Schlosser and i'm an IT specialist for systems integration from Germany.
 I call myself @Schlotter on basicaly every Platform or Game.
 Why you ended up here? I can't tell you that!
