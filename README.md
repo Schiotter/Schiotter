@@ -14,8 +14,6 @@ I’m interested in everything related to Computers and Programming is more of a
 | Bash and Shell       | Windows / Linux |
 | C/C++                | mostly Linux    |
 | Ruby & Rails         | Windows         |
-| Julia                | Windows         |
-| React                | Linux           |
 | PHP + HTML, CSS, JS  | Linux           |
 | Java ☕              | Windows         |
 | Python 🐍            | Linux & Windows |
