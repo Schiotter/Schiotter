@@ -7,18 +7,17 @@ I’m interested in everything related to Computers and Programming is more of a
  📫 If you wish to contact me, you can do that via a Mail to Michael@Schlosser.wtf.
  
 
-### 🌱 I’m permanently trying to learn a bit of everything.
+🌱 I’m permanently trying to learn a bit of everything.
 
-Currently these are my Languages:
-
-##### ✨ Preferred Languages are:
+#### ✨ My preferred Languages are:
 * PHP
 * C
 
-###### ...and i also work with:
-* HTML, CSS, JS (The "WEB")
+#### ...and i also work with:
+* HTML, CSS (The "WEB")
 * Java ☕
 * Python 🐍
+* JavaScript
 
 My OS of choice is random by based on the 🐧-Kernel (:
 
