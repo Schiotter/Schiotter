@@ -19,7 +19,7 @@ I’m interested in everything related to Computers and Programming is more of a
 * Python 🐍
 * JavaScript
 
-My OS of choice is random by based on the 🐧-Kernel (:
+My OS of choice is mostly random but most often based on the 🐧-Kernel (:
 
 * I will not really focus on a certain language in the future, but will try to understand a little bit of all languages
 
