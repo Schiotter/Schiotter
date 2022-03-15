@@ -1,4 +1,4 @@
-# Here's Johnny! 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&color=009FFFFE&vCenter=true&lines=Here's+Jonny!+%F0%9F%91%8B;Here's+Michael!+%F0%9F%91%8B)](https://git.io/typing-svg)
 nah, not realy.. My Name is Michael Schlosser and i'm an IT specialist for systems integration from Germany.
 I call myself @Schlotter on basicaly every Platform or Game.
 Why you ended up here? I can't tell you that!
@@ -14,10 +14,9 @@ I’m interested in everything related to Computers and Programming is more of a
 * C
 
 #### ...and i also work with:
-* HTML, CSS (The "WEB")
+* HTML, CSS, JS (The "WEB")
 * Java ☕
 * Python 🐍
-* JavaScript
 
 My OS of choice is mostly random but most often based on the 🐧-Kernel (:
 
