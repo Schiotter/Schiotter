@@ -4,7 +4,6 @@ I call myself @Schlotter on basicaly every Platform or Game.
 Why you ended up here? I can't tell you that!
 BUT i can tell you a bit about me; Like i said im from Germany, Bavaria and i work in IT additionally im a paramedic 🚑 and firefighter 🚒.
 I’m interested in everything related to Computers and Programming is more of a hobby for me.
- 📫 If you wish to contact me, you can do that via a Mail to Michael@Schlosser.wtf.
  
 
 🌱 I’m permanently trying to learn a bit of everything.
